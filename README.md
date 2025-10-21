@@ -3,7 +3,7 @@
 ## I'm Eduardo Heroizo
 
 ---
-I’m a Computer Science student at the Federal University of Campina Grande (UFCG), passionate about technology, problem-solving, and continuous learning. I enjoy developing personal projects that challenge me to apply and expand my skills, from software development to exploring new tools and technologies. Driven by curiosity and creativity, I’m always looking for opportunities to grow, collaborate, and contribute to impactful solutions in the tech world. 
+I’m a Computer Science student at UFCG, dedicated to developing personal projects and expanding my skills. I enjoy exploring new challenges and creating solutions in the tech world.
 ---
 
 </div>

@@ -35,7 +35,7 @@ I’m a Computer Science student at the Federal University of Campina Grande (UF
   <a href="mailto:eduardoheroizo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="hGOttps://www.linkedin.com/in/eduardo-heroizo-046061344">
+  <a href="https://www.linkedin.com/in/eduardo-heroizo-046061344">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </details>
